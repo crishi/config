@@ -7,7 +7,7 @@ spring.profiles: development
 second.config: Second Application - Second Config Development Value
 third.config: Second Application - Third Config Plain Text Development Value
 
-----
+---
 
 spring.profiles: production
 
