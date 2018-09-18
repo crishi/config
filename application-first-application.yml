@@ -1,0 +1,15 @@
+first.config: First Application - First Config Default Value
+
+---
+
+spring.profiles: development
+
+second.config: First Application - Second Config Development Value
+third.config: First Application - Third Config Plain Text Development Value
+
+-----
+
+spring.profiles: production
+
+second.config: First Application - Second Config Production Value
+third.config: First Application - Third Config Decrypted Production Value
