@@ -12,4 +12,4 @@ third.config: Second Application - Third Config Plain Text Development Value
 spring.profiles: production
 
 second.config: Second Application - Second Config Production Value
-third.config: Second Application - Third Config Decrypted Production Value
+third.config: '{cipher}AQBgowM5ztcM6pipCupFZ5PPSZMKqNiKR8RR4a8yAVGc3R0yNW/ZOKKwRCkQv+n4YDGk1kg32C809ewN0vmegj89DFTqKmBiGzt6k4izZKa9FCQD+H2voI/WN9Q/3OtfoI+NbSk54/+6baMGjcHo6C6eMNCpQqpqZj40xWJjEcKfyh8tOGhv0CItO0W6PK4ZrWGC2dohhBw2NKQzr3ZK93hp/aCr8pHMrzzVL/64GI0k6q+BYuS1ysnv3IvdQTisnwlMkxAd9LVpftcLpsrOLjcFer/jDQZ6XRrgsXyT6kFA9aFAtAXgiCS0YZzUlbg/baGDPqsZZNMqfz5nW7DWge+pIjpxTh8qb8kX3ybomE+jKM2xGI0G4ZuNZR2ak08IsXn/m9bZE1GmRCLQRn8+R5CdVMUFIHGQFsRsQPzdt9NowyDNS0NGFtqDlsHz+alkmCg='
